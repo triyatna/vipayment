@@ -1,0 +1,2 @@
+# vipayment
+API Vip Reseller
